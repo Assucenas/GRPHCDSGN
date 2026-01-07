@@ -53,8 +53,8 @@ const Index = () => {
         <GridWrapper>
           <GridContent className="!mt-0 !mb-0">
             <BlogHero
-              title="Voyager"
-              description="Voyager Press is a modern travel and lifestyle newsroom that showcases inspiring stories, destination features, and travel industry updates."
+              title="Designer"
+              description="Graphic Designer is my depression"
             />
           </GridContent>
         </GridWrapper>
@@ -94,7 +94,7 @@ const Index = () => {
       <footer className="border-t border-border mt-24">
         <div className="article-grid py-12">
           <div className="article-hero text-center text-sm text-muted-foreground">
-            <p>© 2024 Voyager Press. All rights reserved.</p>
+            <p>© 2026 Assucena.  All rights reserved.</p>
           </div>
         </div>
       </footer>

@@ -1,15 +1,15 @@
 // Local images from public/images directory
-const authorAvatar = "/images/pexels-kadeem-stewart-170429769-15786936.jpg";
-const aboutSofiaHero = "/images/pexels-kadeem-stewart-170429769-15786936.jpg";
-const editorialEleganceHero = "/images/amina-atar-tPM3nd4J8xs-unsplash.jpg";
-const desertDreamsHero = "/images/igor-rand-dlR-BNDWz3g-unsplash.jpg";
-const vintageHighwayHero = "/images/dwayne-joe-9wubaeSG13U-unsplash (1).jpg";
-const lavenderFieldsHero = "/images/ozge-karzan-fdZjAjPUQbk-unsplash.jpg";
-const coastalClassicHero = "/images/pexels-adrienne-andersen-1174503-2661255.jpg";
-const storiesUnboundHero = "/images/pexels-ayomide-isaac-66354580-16273825.jpg";
-const circularHorizonsHero = "/images/pexels-brianasarejr-12417686.jpg";
-const retroRevivalHero = "/images/pexels-brianasarejr-17553641.jpg";
-const goldenSpheresHero = "/images/pexels-jameshausley-3328337.jpg";
+const authorAvatar = "/images/assus.jpg";
+const aboutSofiaHero = "/images/do.png";
+const editorialEleganceHero = "/images/rayssa.png";
+const desertDreamsHero = "/images/medina.png";
+const vintageHighwayHero = "/images/girl.png";
+const lavenderFieldsHero = "/images/rose.png";
+const coastalClassicHero = "/images/camisa.png";
+const storiesUnboundHero = "/images/surf.png";
+const circularHorizonsHero = "/images/fla.png";
+const retroRevivalHero = "/images/life.png";
+const goldenSpheresHero = "/images/jesus.png";
 
 export interface ArticleData {
   slug: string;
@@ -46,7 +46,7 @@ export interface ArticleData {
 export const articlesData: Record<string, ArticleData> = {
   "about-james": {
     slug: "about-james",
-    title: "Who's James?",
+    title: "D.O - EXO",
     subtitle: "A Personal Introduction",
     publishDate: "March 20, 2024",
     author: {
@@ -112,7 +112,7 @@ export const articlesData: Record<string, ArticleData> = {
   },
   "editorial-elegance": {
     slug: "editorial-elegance",
-    title: "Statement Jewelry",
+    title: "RAYSSA LEAL",
     subtitle: "The Power of Accessories",
     publishDate: "March 15, 2024",
     author: {
@@ -127,7 +127,7 @@ export const articlesData: Record<string, ArticleData> = {
     content: [
       {
         type: "paragraph",
-        content: "Jewelry is where fashion gets personal.",
+        content: "RAYSSA LEAL",
       },
       {
         type: "paragraph",
@@ -178,7 +178,7 @@ export const articlesData: Record<string, ArticleData> = {
   },
   "desert-dreams": {
     slug: "desert-dreams",
-    title: "Bold Lip",
+    title: "GABRIEL MEDINA",
     subtitle: "The Power of Color",
     publishDate: "March 15, 2024",
     author: {
@@ -244,7 +244,7 @@ export const articlesData: Record<string, ArticleData> = {
   },
   "vintage-highway": {
     slug: "vintage-highway",
-    title: "Luxury Streetwear",
+    title: "FUTURE GIRL",
     subtitle: "From Streets to Status",
     publishDate: "March 12, 2024",
     author: {
@@ -310,7 +310,7 @@ export const articlesData: Record<string, ArticleData> = {
   },
   "lavender-fields": {
     slug: "lavender-fields",
-    title: "The Hat Edit",
+    title: "ROSE - BP",
     subtitle: "Elevated Menswear Accessories",
     publishDate: "March 8, 2024",
     author: {
@@ -376,7 +376,7 @@ export const articlesData: Record<string, ArticleData> = {
   },
   "coastal-classic": {
     slug: "coastal-classic",
-    title: "Natural Glow",
+    title: "STAMP MEDINA",
     subtitle: "Beauty Without Filters",
     publishDate: "March 5, 2024",
     author: {
