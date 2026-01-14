@@ -29,12 +29,7 @@ const Header = () => {
                 to="/article/about-james"
                 className="text-[1.125rem] font-medium text-muted-foreground hover:text-foreground transition-colors"
               >
-                About the Author
-              </Link>
-              <Link
-                to="/contact"
-                className="text-[1.125rem] font-medium text-muted-foreground hover:text-foreground transition-colors"
-              >
+                
                 Get in touch
               </Link>
               <NewsletterSheet>
